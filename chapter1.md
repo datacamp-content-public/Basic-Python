@@ -1,6 +1,7 @@
 ---
-title: Test
-description: Test
+  title: "Test"
+  description: "Test"
+  v2: true
 
 ---
 ## Sample exercise
@@ -10,30 +11,30 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 984734d37c
+key: 900730b30e
+
+
+
 ```
 
+Here is some assignment text.  Read it well.  
 
 `@instructions`
+Do everything in the correct order.
 
 `@hint`
+If things are out of order, sort() them.
 
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{python}
-
+# Here's a comment in the code.
+pass
+print("hello world")
 ```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
+
